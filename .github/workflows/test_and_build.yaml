@@ -40,4 +40,4 @@ jobs:
       uses: docker/build-push-action@v6
       with:
         push: true
-        tags: ghcr.io/michel-lopez-franco/my_CICD_python:latest
+        tags: ghcr.io/michel-lopez-franco/my_cicd_python:latest
